@@ -21,8 +21,8 @@ MongoDB was chosen as the database solution due to its scalability, flexibility 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone 
+   cd <cloned repo>
 2. **Install Dependencies:**
 
    ```bash
